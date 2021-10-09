@@ -37,11 +37,12 @@ For food, I really enjoy eating. I have been to around 5-10 Michelin starred res
 
 I also love watching movies. Christopher Nolan is a genius. I also love watching action movies in IMAX.
 
-Random things I've done:
+<h5>Some Highlights</h5>
+
 <ul>
 <li>I have <a href="https://experience.porsche.com/en/track/events-and-services/training-levels-onroad/precision">Precision</a> certificate from Porsche. I was trained to drive a Porsche GT3 RS2 (0~60 in 3 seconds, $500k sticker price). I was taught high speed maneuvering, how to enter a curve, ideal lap lines, etc.</li>
 <li>I have a motocycle license though I have only used it in Philippines.</li>
-<li>I passed my Japanese drivers license exam on my first try (quite rare)</li>
+<li>I passed my Japanese drivers license exam on my first try (quite rare).</li>
 <li>While at Oxford, I loved studying in <a href="https://en.wikipedia.org/wiki/Radcliffe_Camera">Radcliffe Camera.</a></li>
 <li>I have taken baking classes in Paris for making 🥐 croissants.</li>
 <li>I have been scuba diving once, while in Greece. I love 🇬🇷 Santorini, Greece though (via ATV).</li>
