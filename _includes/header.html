@@ -55,6 +55,14 @@
               {% endif %}
             </a>
           </li>
+          <!-- Reading List -->
+          <li class="nav-item {% if page.title == 'about' %}active{% endif %}">
+            <a class="nav-link" href="{{ '/readinglist' | relative_url }}">
+              reading list {% if page.title == "reading list" %}
+              <span class="sr-only">(current)</span>
+              {% endif %}
+            </a>
+          </li>
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: "title" %} {% for p in
           sorted_pages %} {% if p.nav and p.autogen == nil %} {% if p.dropdown
