@@ -3,10 +3,12 @@ layout: about
 title: About
 permalink: /
 description: Computer Scientist
+subtitle: 
 
 profile:
   align: right
   image: prof_pic.png
+  image_circular: false # crops the image to make it circular
   address: >
    
 
