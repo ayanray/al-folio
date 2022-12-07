@@ -17,4 +17,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi 👋! My name is Ayan and I've been a Computer Scientist and Manager for several years. Feel free to use my social links to find out more about me. Thanks!
+Hi 👋! My name is Ayan and I'm a Computer Scientist and Engineering Manager. Feel free to use my social links to find out more about me. Thanks!
