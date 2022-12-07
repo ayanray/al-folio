@@ -16,9 +16,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <h4>Reading List</h4>
-<p>I've often been asked which books I've read, and would you recommend them. I'm an avid reader, and the books below I've read over the past 2 years or so...</p>
+<p>As an avid non-fiction reader, I'm often asked which books I would recommend.<br />The following books are ones I'd recommend across a wide range of subjects.</p>
 
-<h5>Strategy</h5>
+<h5>Corporate Strategy</h5>
 - Playing to Win
 - Blue Ocean Strategy
 - Crossing the Chasm

@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 description: Computer Scientist
-subtitle: 
+subtitle: Computer Scientist
 
 profile:
   align: right
@@ -15,3 +15,6 @@ profile:
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+---
+
+Hi 👋! My name is Ayan and I've been a Computer Scientist and Manager for several years. Feel free to use my social links to find out more about me. Thanks!
